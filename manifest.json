@@ -1,0 +1,20 @@
+{
+    "name": "dpyps",
+    "version": "0.1",
+    "description": "domain peep",
+    "background": {
+        "scripts": [
+            "dpyps.js"
+        ]
+    },
+    "permissions": [
+        "contextMenus",
+    ],
+    "icons": {
+        "16": "dpyps-16.png",
+        "32": "dpyps-32.png",
+        "64": "dpyps-64.png",
+        "128": "dpyps-128.png",
+    },
+    "manifest_version": 2
+}
